@@ -2895,7 +2895,6 @@
         <updatePolicy>interval:15</updatePolicy>
       </snapshots>
     </repository>
-	    </repository>
 	    <repository>
       <id>vma-public</id>
       <name>VMA Public</name>
